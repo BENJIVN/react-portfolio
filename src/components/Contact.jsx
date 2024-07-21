@@ -32,8 +32,7 @@ const Contact = () => {
           <FaGithub />
         </a>
       </div>
-      <div className="text-center tracking-tighter">
-        <p className="my-4">{CONTACT.address}</p>
+      <div className="text-center tracking-tighter"> 
         <p className="my-4">{CONTACT.phoneNo}</p>
         <a href={`mailto:${CONTACT.email}`} className="border-b">{CONTACT.email}</a>
       </div>

@@ -45,7 +45,7 @@ export const PROJECTS = [
     description:
       "Led a team of developers to create BuyMe, a full-stack online auction platform. The application supports user registration, auction listings, and bidding functionalities. It is built using Java for the backend, MySQL for the database, and JavaScript, HTML, and JDBC for the front end. The platform is hosted on a local Tomcat server.",
     technologies: ["Java", "JavaScript", "HTML", "MySQL","JDBC","Tomcat"],
-    href: "https://github.com/BENJIVN/BuyMeSite-"
+    href: "https://github.com/BENJIVN/BuyMeSite"
   },
   {
     title: "Mobile Phone Manager Application",
@@ -65,8 +65,7 @@ export const PROJECTS = [
   },
 ];
 
-export const CONTACT = {
-  address: "7 Bayberry Ave, Egg Harbor Township, NJ ",
+export const CONTACT = { 
   phoneNo: "(609)-233-7267",
   email: "bvn6@scarletmail.rutgers.edu",
 };
